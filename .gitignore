@@ -5,6 +5,3 @@
 .env
 .envrc
 .venv
-
-# Streamlit
-.streamlit/secrets.toml
